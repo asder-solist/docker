@@ -16,7 +16,7 @@ You need to have `nodejs` and `git` installed on your pc for following the intru
 
 First download the repository using
 ```
-git clone https://github.com/chirag-droid/animeflix
+git clone https://github.com/asder-solist/docker
 ```
 
 This should download this repository to your computer. Next, to download the dependencies run
