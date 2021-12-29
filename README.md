@@ -1,5 +1,5 @@
 
-# Animeflix
+# Anisait
 
 A anime discovery, streaming site made with NextJs and TailwindCSS. Please deploy your own version of the site, by following the instructions. Please follow the instructions given below to deploy for yourself.
 
